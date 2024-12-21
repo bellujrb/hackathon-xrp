@@ -77,6 +77,8 @@ O sistema de conversão, onde pode trocar os seus tokens FDZ por outra marca, on
 hackathon-xrp
 ├── frontend
 │   └── ...
+├── smart-contract-xrp
+│   └── ...
 ├── README.MD
 │   └── ...
 ```
@@ -85,7 +87,9 @@ hackathon-xrp
 #### `hackathon-xrp`
 
 - `front-end`
-    - Frontend 
+    - Frontend
+- `smart-contract-xrp`
+    - Smart Contract com XRP Protocol.
 - `README.md`
     - Projeto de Documentado
 
