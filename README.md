@@ -4,7 +4,7 @@
 
 # Fidz: O único programa de fidelidade de que precisará!  
 
-> _TEAM FIDZ: Hackathon XRP
+> _TEAM HEAD MILIE: Hackathon XRP
 
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Platform](https://img.shields.io/badge/Platform-Mobile-blue)
