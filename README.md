@@ -95,7 +95,7 @@ O sistema de conversão, onde pode trocar os seus tokens FDZ por outra marca, on
 3. **Navegar para o Diretório Correto**
 
     ```bash
-    cd src
+    cd hooks-xrpl/src
     ```
 
 4. **Executar o Servidor**
@@ -119,7 +119,7 @@ Verifique o exemplo da carteira `rP3hfgByFsbtu4F49iqDDVSx3Ls4Webeyr` no [link a 
 hackathon-xrp
 ├── frontend
 │   └── ...
-├── smart-contract-xrp
+├── hooks-xrpl
 │   └── ...
 ├── README.MD
 │   └── ...
@@ -130,8 +130,8 @@ hackathon-xrp
 
 - `front-end`
     - Frontend
-- `smart-contract-xrp`
-    - Smart Contract com XRP Protocol.
+- `hooks-xrpl`
+    - Hooks com XRP Protocol.
 - `README.md`
     - Projeto de Documentado
 
